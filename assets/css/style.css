@@ -1,0 +1,66 @@
+body{
+	background-image:url(../images/download.jpeg);
+
+
+}
+#me{
+	height: 200px; 
+	width: 200px;
+
+	border-style: solid;
+	border-radius: 70%;
+	border-width: 10px;
+	border-color: white;
+	margin-top: 75px;
+
+
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Mukta', sans-serif;
+}
+.container{
+	width: 500px;
+	margin:auto;
+	text-align: auto;
+}
+h1{	color: yellow;
+	margin-bottom: 0;
+	background-color:#333;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	text-align: center;
+
+}
+h2{	color: black;
+	text-transform: uppercase;
+	letter-spacing: 5px;	
+	text-align: center;
+}
+.about{
+	color: yellow;
+	width: 100%;
+	font-size: 18px;
+	line-height: 1.5;
+	background-color: #333;
+	text-align: center;
+}
+.footer {
+	color: black;
+	margin: auto;
+	text-align: center;
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-family: 'Roboto', sans-serif;
+
+
+}
+
+
+
+
